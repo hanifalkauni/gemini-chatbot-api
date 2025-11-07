@@ -40,7 +40,7 @@ This is a simple web-based chatbot application powered by the Google Gemini API.
 
 4.  **Start the server:**
     ```bash
-    npm start
+    node index.js
     ```
     The application will be running at `http://localhost:3000`.
 
