@@ -23,7 +23,7 @@ This is a simple web-based chatbot application powered by the Google Gemini API.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/gemini-chatbot-api.git
+    git clone https://github.com/hanifalkauni/gemini-chatbot-api.git
     cd gemini-chatbot-api
     ```
 
